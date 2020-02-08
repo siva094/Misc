@@ -1,0 +1,3 @@
+controller:
+  config:
+    enable-underscores-in-headers: "true"
